@@ -1,4 +1,4 @@
-=== Quorum Add-on for Gravity Forms ===
+=== Integration for Gravity Forms and Quorum ===
 Contributors: davetee
 Tags: Gravity Forms, Quorum, Subscribe
 Requires at least: 4.8

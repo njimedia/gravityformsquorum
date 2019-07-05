@@ -3,7 +3,7 @@
  * Gravity_Forms Quorum Add-On Main Class
  *
  * @package       GravityForms
- * @subpackage    GravityForms_Quorum_AddOn
+ * @subpackage    GF_Quorum_AddOn
  */
 
 // Deny direct file access.

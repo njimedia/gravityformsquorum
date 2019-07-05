@@ -1,16 +1,16 @@
 <?php
 /**
- * Plugin Name:   Gravity Forms Quorum Add-On
+ * Plugin Name:   Integration for Gravity Forms and Quorum
  * Plugin URI:
- * Description:   Integrates Gravity Forms with Quorum public affairs database, allowing form submissions to update your Quorum account contacts.
- * Version:       0.1
+ * Description:   Add-on for Gravity Forms. Integrates Gravity Forms with Quorum public affairs database, allowing form submissions to update Quorum Supporter contacts.
+ * Version:       1.0
  * Author:        NJI Media
  * Author URI:    https://www.njimedia.com
  * License:       GPL-2.0+
  * Text Domain:   gravityformsquorum
  *
  * @package       GravityForms
- * @subpackage    GravityForms_Quorum_AddOn
+ * @subpackage    GF_Quorum_AddOn
  */
 
 // Deny direct file access.

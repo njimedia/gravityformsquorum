@@ -3,7 +3,7 @@
  * Quorum Subscriber fields data.
  *
  * @package       GravityForms
- * @subpackage    GravityForms_Quorum_AddOn
+ * @subpackage    GF_Quorum_AddOn
  */
 
 // Complete list of every property a Subscriber can have in Quorum.
