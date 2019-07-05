@@ -1,0 +1,12 @@
+{
+    "name": "njimedia/gravityformsquorum",
+    "description": "Quorum Public Affairs integration for Wordpress Gravity Forms",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {"name": "Dave Tate"}
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "njimedia/quorumapi": "*"
+    }
+}
